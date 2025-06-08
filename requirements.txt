@@ -1,0 +1,15 @@
+langchain_core
+arxiv
+openai
+chromadb
+PyMuPDF
+arxiv
+python-dotenv
+langgraph
+langchain_community
+langchain_openai
+langchain_text_splitters
+ipykernel
+langchain_chroma
+pypdf
+streamlit
