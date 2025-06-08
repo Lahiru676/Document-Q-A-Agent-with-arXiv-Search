@@ -1,7 +1,7 @@
-# PDF-Q-A-Agent-with-arXiv-Search
+# Document-Q-A-Agent-with-arXiv-Search
 This agent can read pdf and answer the questions and if there no any relevant document for questions it can check arxiv search and answer the question  
 
-# 📄 LangGraph PDF Q&A + ArXiv Search Agent
+# 📄 LangGraph Document Q&A + ArXiv Search Agent
 
 This project is an **enterprise-ready AI agent** for answering questions from **academic PDFs** using **LangGraph**, **OpenAI GPT-4o**, and **arXiv** integration. It features persistent **chat history**, automatic **multi-PDF ingestion**, and an intuitive **Streamlit UI** for interactive querying.
 
@@ -38,8 +38,8 @@ This project is an **enterprise-ready AI agent** for answering questions from **
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/Lahiru676/PDF-Q-A-Agent-with-arXiv-Search.git
-cd PDF-Q-A-Agent-with-arXiv-Search
+git clone https://github.com/Lahiru676/Document-Q-A-Agent-with-arXiv-Search.git
+cd Document-Q-A-Agent-with-arXiv-Search
 2. Install Dependencies
 Using pip or conda environment:
 pip install -r requirements.txt
@@ -63,7 +63,7 @@ streamlit run app.py
 
 📁 Project Structure
 
-PDF-Q-A-Agent-with-arXiv-Search/
+Document-Q-A-Agent-with-arXiv-Search/
 │
 ├── main.py              # LangGraph-powered LLM agent
 ├── app.py               # Streamlit UI
