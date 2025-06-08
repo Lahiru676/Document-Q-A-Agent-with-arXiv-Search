@@ -1,5 +1,8 @@
 # Document-Q-A-Agent-with-arXiv-Search
 This agent can read pdf and answer the questions and if there no any relevant document for questions it can check arxiv search and answer the question  
+![image](https://github.com/user-attachments/assets/ef0a0177-e85f-42a6-83af-327799b5e4c7)
+![image](https://github.com/user-attachments/assets/aa89df8f-81c2-465a-8a01-6d6cdb4b6b66)
+
 
 # 📄 LangGraph Document Q&A + ArXiv Search Agent
 
